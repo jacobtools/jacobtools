@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob Tools</h1>
 <h3 align="center">A Ddeveloper From INSPECTOR Team</h3>
-<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="random gif" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🔭 I’m currently working on **Gmail Cracker**
 
 - 🌱 I’m currently learning **php and mySQL**
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python , C and C++, java script**
 
 - ⚡ Fun fact **XSS is too Funny**
-
+<img align="right" alt="random gif" width = "400" src ="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jacobtools" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jacobtools" height="30" width="40" /></a>
