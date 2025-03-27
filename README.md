@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **php and mySQL**
 
-- 🤝 Find Me on Telegram [t.me/inspect_1](t.me/inspect_1)
+- 🤝 Find Me on Telegram [t.me/exploitcrafting](t.me/exploitcrafting)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jacobtools/](https://github.com/jacobtools/)
 
